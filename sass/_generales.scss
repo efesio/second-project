@@ -1,0 +1,35 @@
+footer{
+    margin-top: 3em;
+}
+
+html {
+    font-size: 100%;
+    line-height: 1.5rem;
+    box-sizing:border-box;    
+}
+
+body {
+    margin: 0 auto;
+    padding: 0px;
+    min-height: 100vh;   
+    background-image: url(../img/fondos/geroatias_minimalist_geometric_background_with_tiny_ultra_hd_gr_cf47334f-46eb-4857-a5be-03ee36e3875f.png);   
+}
+
+h1{
+    box-shadow: 5px 0 0 black;     
+}
+
+h2{
+    color: white;
+}
+
+a{
+    color: white;    
+    text-decoration: none;       
+}
+
+img {
+    max-width: 100%;
+    height:auto;
+    display:block;    
+}

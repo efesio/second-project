@@ -1,0 +1,27 @@
+header {
+    nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    line-height: 1rem;
+    overflow: hidden;
+    margin-bottom: 0.5rem;
+
+    .header-nav-2{    
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .logo{
+        margin-bottom: 1em;
+    }
+
+    h1{
+        box-shadow: 5px 0 0 black;     
+    }
+    a{
+        color: white    
+    }               
+}
+    
+}
